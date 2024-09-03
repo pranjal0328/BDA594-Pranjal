@@ -1,4 +1,4 @@
-Pranjal Patel
+# Pranjal Patel
 https://sdsu.instructure.com/courses/162125
 I like to think of Big Data as the data generated every second. Its the data about anything you might need to analyse, instagram likes, heart rate, and so on. 
 
